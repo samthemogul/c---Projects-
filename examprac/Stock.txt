@@ -1,0 +1,4 @@
+Mangoes,3000,30
+Pineapples,4000,10
+Melon,1000,15
+Apples,2000,14

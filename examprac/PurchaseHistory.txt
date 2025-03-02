@@ -1,0 +1,7 @@
+Customer's Name: John, Quantity Ordered: 5, Name of Product: Melon
+Customer's Name: John, Quantity Ordered: 5, Name of Product: Melon
+Customer's Name: John, Quantity Ordered: 5, Name of Product: Melon
+Customer's Name: Samuel, Quantity Ordered: 5, Name of Product: Melon
+Customer's Name: Tommy, Quantity Ordered: 5, Name of Product: Melon
+Customer's Name: Fame, Quantity Ordered: 5, Name of Product: Melon
+Customer's Name: Fame, Quantity Ordered: 5, Name of Product: Pineapples
